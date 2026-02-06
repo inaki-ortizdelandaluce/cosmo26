@@ -5,3 +5,6 @@
 # PowerPoint
 *.pptx
 *.ppt
+
+# Keynote
+*.key
