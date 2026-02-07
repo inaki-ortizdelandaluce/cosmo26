@@ -8,3 +8,6 @@
 
 # Keynote
 *.key
+
+# Notebooks
+*Soluciones.ipynb
